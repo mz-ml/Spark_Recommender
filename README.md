@@ -16,7 +16,7 @@
   - RMSE on the testing set
 - Model Application
   - Recommend Movies using ALS
-  - Find Similar Movies using item-based method
+  - Find Similar Movies using **Item-Item Similarity**
 
 #### HTML Preview
 
