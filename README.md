@@ -2,7 +2,7 @@
 
 #### Project Summary 
 
-- In this project, I apply Alternating Least Squares (ALS) to provide personalized movie recommendations and apply Item-Based Filtering using Euclidean distance to find similar movies
+- In this project, I apply Alternating Least Squares (ALS) to provide personalized movie recommendations and apply Item-Based Filtering using Euclidean distance to find similar movies.
 
 #### Outline
 
