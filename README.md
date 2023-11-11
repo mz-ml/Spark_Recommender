@@ -2,7 +2,7 @@
 
 #### Project Summary 
 
-- In this project, I apply Alternating Least Squares (ALS) to provide personalized movie recommendation and apply Item-Based Filtering using Euclidean distance to find similar movies.
+- In this project, I applied Alternating Least Squares (ALS) to provide personalized movie recommendation and Item-Based Filtering using Euclidean distance to find similar movies.
 
 #### Outline
 
@@ -11,12 +11,12 @@
 - Data Preprocessing
 - Model Selection [Spark ML]
   - Predict movie ratings using **ALS**
-  - Tune the hyperparameters with 5-fold corss-validation
+  - Tune hyperparameters with 5-fold corss-validation
 - Model Evaluation
   - RMSE on the testing set
 - Model Application
-  - Recommend Movies using ALS
-  - Find Similar Movies using **Item-Item Similarity**
+  - Recommend movies using ALS
+  - Find similar movies using **Item-Item Similarity**
 
 #### HTML Preview
 
