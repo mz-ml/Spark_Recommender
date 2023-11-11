@@ -7,9 +7,9 @@
 #### Outline
 
 - Data Loading and Exploration
-- Online Analytical Processing [Spark SQL]
+- Online Analytical Processing *[PySpark.sql]*
 - Data Preprocessing
-- Model Selection [Spark ML]
+- Model Selection *[PySpark.ml]*
   - Predict movie ratings using **ALS**
   - Tune hyperparameters with 5-fold corss-validation
 - Model Evaluation
