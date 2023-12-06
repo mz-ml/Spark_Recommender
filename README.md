@@ -20,5 +20,5 @@
 
 #### HTML Preview
 
-https://htmlpreview.github.io/?https://github.com/mingzhao1103/Spark_Recommender/blob/main/recommender.html
+https://htmlpreview.github.io/?https://github.com/mz-ml/Spark_Recommender/blob/main/recommender.html
 
